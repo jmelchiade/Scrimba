@@ -23,7 +23,7 @@ function Header() {
 function Footer(){
     return(
         <footer>
-                <small>© 2021 Ziroll development. All rights reserved.</small>
+                <small>© 2022 Melchiade development. All rights reserved.</small>
             </footer>
     )
 }
