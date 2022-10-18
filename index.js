@@ -9,7 +9,8 @@ function Page() {
                     <img src="./react-logo.png" width="40px" />
                 </nav>
             </header>
-            <h1>Reasons I'm excited to learn React</h1>
+            <h1>This is Practice for React</h1>
+            <h2>Reasons to learn React:</h2>
             <ol>
                 <li>It's a resourceful, progressive tool for web developers </li>
                 <li>I'm more likely to get a job as a developer
