@@ -1,20 +1,5 @@
 import React from "react"
 import ReactDOM from "react-dom"
-import Header from "../../Header"
-import Footer from "../components/Footer"
-import MainContent from "/.MainContent"
+import App from "./App.js"
 
-
-function App() {
-    return (
-        <div>
-            <Header />
-            <MainContent/>
-            <Footer/>
-        </div>
-    )
-}
-
-
-
-ReactDOM.render(<App />, document.getElementById("root"))
+ReactDOM.render(<App/>,document.getElementById("root"))
